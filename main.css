@@ -1,0 +1,17 @@
+#earth {
+  border: 1px solid red;
+  margin-left: 5px;
+  margin-right: 400px;
+  margin-top: 20px;
+  background-color: #ffc200;
+
+}
+#mars {
+  border: 1px solid black;
+  margin-left: 400px;
+  margin-right: 5px;
+  margin-top: 0px;
+  background-color: #ffc200;
+
+
+}
